@@ -64,7 +64,7 @@ export default function DesktopEmptyState() {
 
                 <div className="w-full flex justify-center mt-8 animate-levitate">
                     <Link
-                        href="https://t.me/your_telegram"
+                        href="https://t.me/m/8Wl0nG2cYTYy"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group flex items-center justify-center gap-[18px] w-full max-w-[295px] h-[56px]
