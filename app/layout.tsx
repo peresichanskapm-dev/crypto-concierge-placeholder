@@ -37,6 +37,9 @@ const codecPro = localFont({
 export const metadata: Metadata = {
   title: 'Опишіть вашу задачу | Фінансові рішення',
   description: 'Ми підбираємо оптимальний сценарій під кожен запит: від обміну USDT до міжнародних переказів.',
+  icons: {
+    icon: '/placeholder/icon.png', // Жорсткий шлях до іконки
+  },
 }
 
 export default function RootLayout({
