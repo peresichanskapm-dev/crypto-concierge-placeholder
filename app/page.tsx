@@ -33,7 +33,7 @@ export default function DesktopEmptyState() {
 
             <div className="absolute bottom-0 right-0 lg:-right-[2%] w-[230px] sm:w-[330px] md:w-[459px] pointer-events-none z-10 select-none">
                 <Image
-                    src="/images/coins-stack.png"
+                    src="/placeholder/images/coins-stack.png"
                     alt="Монети"
                     width={459}
                     height={473}

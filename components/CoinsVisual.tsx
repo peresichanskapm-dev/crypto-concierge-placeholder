@@ -4,7 +4,7 @@ export default function CoinsVisual() {
             <div className="absolute -bottom-10 left-1/2 -translate-x-1/2 md:bottom-0 md:right-0 md:left-auto md:translate-x-0 w-[280px] md:w-[450px]">
                 <img
                     src="/placeholder/images/coins-stack.png"
-                    alt="Криптовалютні монети"
+                    alt="Монети"
                     className="w-full h-auto object-contain opacity-90 md:opacity-100 mix-blend-screen md:mix-blend-normal"
                 />
             </div>

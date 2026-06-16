@@ -4,4 +4,4 @@
 :HL["/placeholder/_next/static/media/CodecPro_Light-s.p.3wctz5-2ils6r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/placeholder/_next/static/media/CodecPro_News-s.p.1ru0hkk0a_g_s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/placeholder/_next/static/media/CodecPro_Regular-s.p.0tm6hv9c4ylv-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xTFrYz_xu6yyKkLN707Sk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yMy6Xc-w_EH_i_956OqQI"}
