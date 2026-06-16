@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function TelegramButton() {
     return (
         <Link
-            href="https://t.me/ваш_телеграм"
+            href="https://t.me/m/8Wl0nG2cYTYy"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center justify-center gap-3 rounded-[100px] px-8 py-4 text-base font-medium transition-all duration-300 bg-[#032515] text-[#05D172] border border-[#05D172] hover:bg-[#05D172] hover:text-[#000000]"
